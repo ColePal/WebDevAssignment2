@@ -106,3 +106,5 @@ C:\Users\Cole\OneDrive - Massey University\Web Development\Assignment 2\FilmFrie
 C:\Users\Cole\OneDrive - Massey University\Web Development\Assignment 2\FilmFriends\obj\Debug\FilmFrie.CC3A587A.Up2Date
 C:\Users\Cole\OneDrive - Massey University\Web Development\Assignment 2\FilmFriends\obj\Debug\FilmFriends.dll
 C:\Users\Cole\OneDrive - Massey University\Web Development\Assignment 2\FilmFriends\obj\Debug\FilmFriends.pdb
+C:\Users\Cole\OneDrive - Massey University\Web Development\Assignment 2\FilmFriends\obj\Debug\FilmFriends.Migrations.FilmFriendsDataFilmFriendsContext.resources
+C:\Users\Cole\OneDrive - Massey University\Web Development\Assignment 2\FilmFriends\obj\Debug\FilmFriends.csproj.GenerateResource.cache
